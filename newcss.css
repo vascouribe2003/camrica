@@ -11,6 +11,12 @@ and open the template in the editor.
 
 nav {
     background-color: #9999ff;
+    float: right;
+    margin-right: 20px;
+}
+header {
+    background-color: aqua;
+    height: 260px;
 }
 
 .img{
@@ -33,7 +39,7 @@ p {
 }
 li {
  padding: 10px; 
-
+text-decoration: none;
  list-style: none;
  margin-right:120px;
  float :left
@@ -53,12 +59,9 @@ ul {
          float: right; margin: 1em 3em 1em 1em; }
 .a {
 text-decoration: none;    
-    
+   
 }
-nav {
-    float: right    
-    
-}
+
 body {
     background-color: #0099ff;
     text-align: center;
